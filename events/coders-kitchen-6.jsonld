@@ -1,0 +1,58 @@
+{
+  "@context": "http://schema.org",
+  "@type": "FoodEvent",
+  "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-6.jsonld",
+  "name": "Coders Kitchen #6",
+  "startDate": "2017-10-11",
+  "image": [
+    "http://coders-kitchen.dotsunited.de/images/shakshuka-jan-1.jpg",
+    "http://coders-kitchen.dotsunited.de/images/shakshuka-jan-2.jpg"
+  ],
+  "location": {
+    "@type": "Place",
+    "name": "Dots United GmbH",
+    "address" : "Rathenaustr. 15, 68165 Mannheim",
+    "sameAs": "https://dotsunited.de"
+  },
+  "attendee": [
+    {
+      "@type": "Person",
+      "name": "Fabian Bentz"
+    },
+    {
+      "@type": "Person",
+      "name": "Jan Sorgalla"
+    },
+    {
+      "@type": "Person",
+      "name": "Jonas Regner"
+    },
+    {
+      "@type": "Person",
+      "name": "Kai Schroko"
+    },
+    {
+      "@type": "Person",
+      "name": "Kevin Geggus"
+    },
+    {
+      "@type": "Person",
+      "name": "Mirko Mayerhöffer"
+    }
+  ],
+  "superEvent": {
+    "@type": "FoodEvent",
+    "@id": "http://coders-kitchen.dotsunited.de/index.jsonld"
+  },
+  "potentialAction": {
+    "@type": "CookAction",
+    "agent": {
+      "@type": "Person",
+      "name": "Jan Sorgalla"
+    },
+    "recipe": {
+      "@type": "Recipe",
+      "@id": "http://coders-kitchen.dotsunited.de/recipes/shakshuka-jan.jsonld"
+    }
+  }
+}

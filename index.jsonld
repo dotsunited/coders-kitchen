@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": "FoodEvent",
+  "@id": "http://coders-kitchen.dotsunited.de/index.jsonld",
+  "name": "Coders Kitchen",
+  "description": "Einer aus dem Team bekocht das gesamte Team, jeder ist mal dran.",
+  "startDate": "2017-05-10",
+  "image": "http://coders-kitchen.dotsunited.de/images/coders-kitchen.svg",
+  "location": {
+    "@type": "Place",
+    "name": "Dots United GmbH",
+    "address" : "Rathenaustr. 15, 68165 Mannheim",
+    "sameAs": "https://dotsunited.de"
+  },
+  "subEvent": [
+    {
+      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-6.jsonld"
+    }
+  ]
+}

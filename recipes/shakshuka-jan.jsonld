@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "@id": "http://coders-kitchen.dotsunited.de/recipes/shakshuka-jan.jsonld",
+  "name": "Shakshuka von Jan",
+  "datePublished": "2017-10-11",
+  "image": "http://coders-kitchen.dotsunited.de/images/shakshuka-jan-1.jpg",
+  "recipeIngredient": [
+    "1 kg Tomaten",
+    "2 Zwiebeln",
+    "4 EL Olivenöl",
+    "1/2 Tube Tomatenmark",
+    "2 TL Salz",
+    "2 TL Kreuzkümmel",
+    "3 TL Paprikapulver",
+    "1 Spritzer Agavendicksaft",
+    "Glatte Petersilie"
+  ],
+  "subjectOf": [
+    {
+      "@type": "FoodEvent",
+      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-6.jsonld"
+    }
+  ]
+}
