@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": "FoodEvent",
+  "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-5.jsonld",
+  "name": "Coders Kitchen #5",
+  "startDate": "2017-09-13",
+  "location": {
+    "@type": "Place",
+    "name": "Dots United GmbH",
+    "address" : "Rathenaustr. 15, 68165 Mannheim",
+    "sameAs": "https://dotsunited.de"
+  },
+  "attendee": [
+    {
+      "@type": "Person",
+      "name": "Fabian Bentz"
+    },
+    {
+      "@type": "Person",
+      "name": "Jan Sorgalla"
+    },
+    {
+      "@type": "Person",
+      "name": "Jonas Regner"
+    },
+    {
+      "@type": "Person",
+      "name": "Kai Schroko"
+    },
+    {
+      "@type": "Person",
+      "name": "Kevin Geggus"
+    },
+    {
+      "@type": "Person",
+      "name": "Mirko Mayerhöffer"
+    }
+  ],
+  "superEvent": {
+    "@type": "FoodEvent",
+    "@id": "http://coders-kitchen.dotsunited.de/index.jsonld"
+  },
+  "potentialAction": {
+    "@type": "CookAction",
+    "agent": {
+      "@type": "Person",
+      "name": "Kevin Geggus"
+    },
+    "recipe": {
+      "@type": "Recipe",
+      "@id": "http://coders-kitchen.dotsunited.de/recipes/hackfleisch-kaesesuppe-kevin.jsonld"
+    }
+  }
+}
