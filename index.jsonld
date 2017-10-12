@@ -13,6 +13,9 @@
     "sameAs": "https://dotsunited.de"
   },
   "subEvent": [
+  {
+      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-3.jsonld"
+    },
     {
       "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-5.jsonld"
     },

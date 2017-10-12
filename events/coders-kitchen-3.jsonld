@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": "FoodEvent",
+  "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-3.jsonld",
+  "name": "Coders Kitchen #3",
+  "startDate": "2017-07-12",
+  "location": {
+    "@type": "Place",
+    "name": "Dots United GmbH",
+    "address" : "Rathenaustr. 15, 68165 Mannheim",
+    "sameAs": "https://dotsunited.de"
+  },
+  "attendee": [
+    {
+      "@type": "Person",
+      "name": "Fabian Bentz"
+    },
+    {
+      "@type": "Person",
+      "name": "Jan Sorgalla"
+    },
+    {
+      "@type": "Person",
+      "name": "Kai Schroko"
+    },
+    {
+      "@type": "Person",
+      "name": "Kevin Geggus"
+    },
+    {
+      "@type": "Person",
+      "name": "Mirko Mayerhöffer"
+    },
+    {
+      "@type": "Person",
+      "name": "Jonas Regner"
+    }
+  ],
+  "superEvent": {
+    "@type": "FoodEvent",
+    "@id": "http://coders-kitchen.dotsunited.de/index.jsonld"
+  },
+  "potentialAction": {
+    "@type": "CookAction",
+    "agent": {
+      "@type": "Person",
+      "name": "Fabian Bentz"
+    },
+    "recipe": {
+      "@type": "Recipe",
+      "@id": "http://coders-kitchen.dotsunited.de/recipes/bolognese-fabian.jsonld"
+    }
+  }
+}
