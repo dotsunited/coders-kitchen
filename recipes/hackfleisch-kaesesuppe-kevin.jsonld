@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "@id": "http://coders-kitchen.dotsunited.de/recipes/hackfleisch-kaesesuppe-kevin.jsonld",
+  "name": "Hackfleisch Käsesuppe mit Lauch von Kevin",
+  "datePublished": "2017-10-11",
+  "recipeIngredient": [
+    "3 Stangen Lauch",
+    "750 g gemischtes Hackfleisch",
+    "1 L Wasser",
+    "3 - 4 TL Brühe",
+    "2 Packungen Schmelzkäse"
+  ],
+  "subjectOf": [
+    {
+      "@type": "FoodEvent",
+      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-5.jsonld"
+    }
+  ]
+}
