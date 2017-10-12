@@ -10,5 +10,5 @@
 
 <div align="center">
     <h2>License</h2>
-    <p>Content is released under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>.</p>
+    <p>Content is released under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a>.</p>
 </div>
