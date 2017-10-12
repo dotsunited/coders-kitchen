@@ -7,3 +7,8 @@
 <br />
 
 <div align="center">This repository holds the events and recipes as <a href="http://schema.org">schema.org</a> JSON-LD files.</div>
+
+<div align="center">
+    <h2>License</h2>
+    <p>Content is released under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>.</p>
+</div>
