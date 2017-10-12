@@ -4,6 +4,9 @@
   "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-3.jsonld",
   "name": "Coders Kitchen #3",
   "startDate": "2017-07-12",
+  "image": [
+    "http://coders-kitchen.dotsunited.de/images/bolognese-fabian-1.jpg"
+  ],
   "location": {
     "@type": "Place",
     "name": "Dots United GmbH",
