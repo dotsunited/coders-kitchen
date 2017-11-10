@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "@id": "http://coders-kitchen.dotsunited.de/recipes/bolognese-fabian.jsonld",
+  "name": "Bolognese von Fabian",
+  "datePublished": "2017-10-11",
+  "image": "http://coders-kitchen.dotsunited.de/images/bolognese-fabian-1.jpg",
+  "recipeIngredient": [
+    "1 kg gemischtes Hackfleisch",
+    "2 Karotten",
+    "1/2 Knollensellerie",
+    "2 Zwiebeln",
+    "4 Dosen geschälte Tomatem",
+    "1 Tube Tomatenmark",
+    "3 TL Salz",
+    "3 EL Paprikapulver",
+    "150 ml Rotwein",
+    "1 TL schwarzer Pfeffer",
+    "1,5 kg Pasta",
+    "250g Parmesan"
+  ],
+  "subjectOf": [
+    {
+      "@type": "FoodEvent",
+      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-3.jsonld"
+    }
+  ]
+}
