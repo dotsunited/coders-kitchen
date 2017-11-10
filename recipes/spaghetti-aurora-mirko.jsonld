@@ -45,6 +45,7 @@
   "subjectOf": [
       {
         "@type": "FoodEvent",
+        "name": "Coders Kitchen",
         "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-3.jsonld"
       }
   ]
