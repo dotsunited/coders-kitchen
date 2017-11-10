@@ -2,9 +2,15 @@
   "@context": "http://schema.org",
   "@type": "Recipe",
   "@id": "http://coders-kitchen.dotsunited.de/recipes/bolognese-fabian.jsonld",
-  "name": "Bolognese von Fabian",
+  "name": "Spaghetti Aurora von Mirko",
   "datePublished": "2017-10-11",
   "image": "http://coders-kitchen.dotsunited.de/images/bolognese-fabian-1.jpg",
+
+
+    "prepTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeYield": "8 servings",
+
   "recipeIngredient": [
     "1 kg gemischtes Hackfleisch",
     "2 Karotten",
@@ -19,10 +25,17 @@
     "1,5 kg Pasta",
     "250g Parmesan"
   ],
+
+  "recipeInstructions": [
+        "1",
+        "2",
+        "3"
+  ],
+
   "subjectOf": [
-    {
-      "@type": "FoodEvent",
-      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-3.jsonld"
-    }
+      {
+        "@type": "FoodEvent",
+        "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-3.jsonld"
+      }
   ]
 }
