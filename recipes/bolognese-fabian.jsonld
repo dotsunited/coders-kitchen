@@ -2,7 +2,7 @@
   "@context": "http://schema.org",
   "@type": "Recipe",
   "@id": "http://coders-kitchen.dotsunited.de/recipes/bolognese-fabian.jsonld",
-  "name": "Bolognese von Fabian",
+  "name": "Bolognese by Fabian",
   "datePublished": "2017-10-11",
   "image": "http://coders-kitchen.dotsunited.de/images/bolognese-fabian-1.jpg",
   "recipeIngredient": [

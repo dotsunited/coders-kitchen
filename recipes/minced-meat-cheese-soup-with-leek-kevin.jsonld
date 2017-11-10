@@ -2,14 +2,14 @@
   "@context": "http://schema.org",
   "@type": "Recipe",
   "@id": "http://coders-kitchen.dotsunited.de/recipes/hackfleisch-kaesesuppe-kevin.jsonld",
-  "name": "Hackfleisch Käsesuppe mit Lauch von Kevin",
+  "name": "Minced meat cheese soup with leek by Kevin",
   "datePublished": "2017-10-11",
   "recipeIngredient": [
-    "3 Stangen Lauch",
-    "750 g gemischtes Hackfleisch",
-    "1 L Wasser",
-    "3 - 4 TL Brühe",
-    "2 Packungen Schmelzkäse"
+    "3 leeks",
+    "750 g Mixed minced meat",
+    "1 L Water",
+    "3 - 4 TL broth",
+    "2 Packages soft cheese"
   ],
   "subjectOf": [
     {
