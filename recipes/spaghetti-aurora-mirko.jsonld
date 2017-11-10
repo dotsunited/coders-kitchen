@@ -2,11 +2,12 @@
   "@context": "http://schema.org",
   "@type": "Recipe",
   "@id": "http://coders-kitchen.dotsunited.de/recipes/spaghetti-aurora-mirko.jsonld",
+  "author": "Mirko, Dots United",
   "name": "Spaghetti Aurora by Mirko",
   "datePublished": "2017-11-10",
   "image": "http://coders-kitchen.dotsunited.de/images/spaghetti-aurora-mirko.jpg",
 
-  "prepTime": "PT10M",
+  "prepTime": "PT5M",
   "totalTime": "PT20M",
   "recipeYield": "8 servings",
 
@@ -16,7 +17,7 @@
     "3 Onions",
     "2 Cans sliced tomatoes",
     "2 Cans strained tomatoes",
-    "400 ml Whipped cream"
+    "400 ml Whipped cream",
     "3 Tsp salt",
     "Pinch of pepper",
     "250 g Parmesan",
