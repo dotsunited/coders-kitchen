@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "@id": "http://coders-kitchen.dotsunited.de/recipes/spaghetti-aurora-mirko.jsonld",
+  "name": "Spaghetti Aurora by Mirko",
+  "datePublished": "2017-11-10",
+  "image": "http://coders-kitchen.dotsunited.de/images/spaghetti-aurora-mirko.jpg",
+
+  "prepTime": "PT10M",
+  "totalTime": "PT20M",
+  "recipeYield": "8 servings",
+
+  "recipeIngredient": [
+    "1 kg Spaghetti (Barilla number 7)",
+    "500 g Boiled ham",
+    "3 Onions",
+    "2 Cans sliced tomatoes",
+    "2 Cans strained tomatoes",
+    "400 ml Whipped cream"
+    "3 Tsp salt",
+    "Pinch of pepper",
+    "250g Parmesan",
+    "2 - 3 Sp Olive oil"
+  ],
+
+  "recipeInstructions": [
+        "1 Bring ca. 1,5 l salted water to the boil",
+        "2 Cut up the onions and stew them until soft and opaque",
+        "3 Cut the boiled ham in thin stripes (2 cm)",
+        "4 Put the pasta in the boiling water. IMPORTANT: Drain spaghetti 1 - 2 minutes sooner as described in the cooking instructions",
+        "5 Heat up olive oil in a large pan",
+        "6 Add the boiled ham and fry it for 1 - 2 minutes",
+        "7 Put all the cans of sliced and strained tomatoes in the pan",
+        "8 Stir it well",
+        "9 Reduce heat",
+        "10 Add the whipped cream",
+        "11 Stir it well",
+        "12 Spice the sauce as you like (pepper, salt, some basil ...)",
+        "13 Drain spaghetti",
+        "14 Put the spaghetti in the pan and stir it well once again",
+        "15 Serve food"
+  ],
+
+  "subjectOf": [
+      {
+        "@type": "FoodEvent",
+        "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-3.jsonld"
+      }
+  ]
+}
