@@ -21,6 +21,9 @@
     },
     {
       "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-6.jsonld"
+    },
+    {
+      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-7.jsonld"
     }
   ]
 }
