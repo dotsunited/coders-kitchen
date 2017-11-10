@@ -3,25 +3,24 @@
   "@type": "Recipe",
   "@id": "http://coders-kitchen.dotsunited.de/recipes/bolognese-fabian.jsonld",
   "name": "Spaghetti Aurora von Mirko",
-  "datePublished": "2017-10-11",
+  "datePublished": "2017-11-10",
   "image": "http://coders-kitchen.dotsunited.de/images/bolognese-fabian-1.jpg",
 
-    "prepTime": "PT10M",
-    "totalTime": "PT20M",
-    "recipeYield": "8 servings",
+  "prepTime": "PT10M",
+  "totalTime": "PT20M",
+  "recipeYield": "8 servings",
 
   "recipeIngredient": [
-    "1 kg gemischtes Hackfleisch",
-    "2 Karotten",
-    "1/2 Knollensellerie",
-    "2 Zwiebeln",
-    "4 Dosen geschälte Tomatem",
-    "1 Tube Tomatenmark",
-    "3 TL Salz",
-    "3 EL Paprikapulver",
+    "1 kg Spaghetti (Barilla number 7)",
+    "500 g Boiled ham",
+    "3 Onions",
+    "2 Cans sliced tomatoes",
+    "2 Cans strained tomatoes",
+    "400 ml Whipped cream"
+    "3 Tsp salt",
+    "Pinch of pepper",
     "150 ml Rotwein",
     "1 TL schwarzer Pfeffer",
-    "1,5 kg Pasta",
     "250g Parmesan"
   ],
 
