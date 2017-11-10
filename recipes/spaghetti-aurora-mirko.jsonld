@@ -43,23 +43,10 @@
         "15 Serve food"
   ],
 
-  "subjectOf": [
-      {
-        "@type": "FoodEvent",
-        "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-3.jsonld",
-        "name": "Coders Kitchen",
-        "description": "Coders Kitchen is a monthly event at Dots United where one of the team members cooks a dinner for the rest of the team.",
-        "startDate": "2017-11-10T10:30",
-        "location": {
-            "@type": "Place",
-            "name": "Dots United GmbH",
-            "address": {
-              "@type": "PostalAddress",
-              "streetAddress": "Rathenaustr. 15",
-              "addressLocality": "Mannheim",
-              "postalCode": "68165"
-            }
-        }
-      }
+"subjectOf": [
+    {
+      "@type": "FoodEvent",
+      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-7.jsonld"
+    }
   ]
 }
