@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "@id": "http://coders-kitchen.dotsunited.de/recipes/mante-jonas.jsonld",
+  "name": "Mante von Jonas",
+  "datePublished": "2018-03-10",
+  "totalTime": "PT20M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "500 g Mante",
+    "1 EL Butter",
+    "1 EL Tomatenmark",
+    "250 g Joghurt",
+    "Knoblauchpulver"
+  ],
+  "subjectOf": [
+    {
+      "@type": "FoodEvent",
+      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-6.jsonld"
+    }
+  ]
+}

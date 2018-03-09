@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": "FoodEvent",
+  "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-2.jsonld",
+  "name": "Coders Kitchen #2",
+  "startDate": "2017-06-14",
+  "location": {
+    "@type": "Place",
+    "name": "Dots United GmbH",
+    "address" : "Rathenaustr. 15, 68165 Mannheim",
+    "sameAs": "https://dotsunited.de"
+  },
+  "attendee": [
+    {
+      "@type": "Person",
+      "name": "Jonas Regner"
+    },
+    {
+      "@type": "Person",
+      "name": "Kai Schroko"
+    },
+    {
+      "@type": "Person",
+      "name": "Kevin Geggus"
+    },
+    {
+      "@type": "Person",
+      "name": "Fabian Bentz"
+    }
+  ],
+  "superEvent": {
+    "@type": "FoodEvent",
+    "@id": "http://coders-kitchen.dotsunited.de/index.jsonld"
+  },
+  "potentialAction": {
+    "@type": "CookAction",
+    "agent": {
+      "@type": "Person",
+      "name": "Jonas Regner"
+    },
+    "recipe": {
+      "@type": "Recipe",
+      "@id": "http://coders-kitchen.dotsunited.de/recipes/pfannkuchentorte-jonas.jsonld"
+    }
+  }
+}

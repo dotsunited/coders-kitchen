@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "@id": "http://coders-kitchen.dotsunited.de/recipes/pfannkuchentorte-jonas.jsonld",
+  "name": "Pfannkuchentorte von Jonas",
+  "datePublished": "2018-03-10",
+  "totalTime": "PT40M",
+  "recipeYield": "4 servings",
+  "recipeIngredient": [
+    "1/2 l Milch",
+    "4 Eier",
+    "300 g Mehl",
+    "2 EL Öl",
+    "1 TL Salz",
+    "2 EL Zucker",
+    "1 Glas Marmelade"
+  ],
+  "subjectOf": [
+    {
+      "@type": "FoodEvent",
+      "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-2.jsonld"
+    }
+  ]
+}
