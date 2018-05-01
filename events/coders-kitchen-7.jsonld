@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": "FoodEvent",
+  "@id": "http://coders-kitchen.dotsunited.de/events/coders-kitchen-7.jsonld",
+  "name": "Coders Kitchen #7",
+  "startDate": "2017-11-08",
+  "image": [
+    "http://coders-kitchen.dotsunited.de/images/spaghetti-aurora-mirko.jpg"
+  ],
+  "location": {
+    "@type": "Place",
+    "name": "Dots United GmbH",
+    "address" : "Rathenaustr. 15, 68165 Mannheim",
+    "sameAs": "https://dotsunited.de"
+  },
+  "attendee": [
+    {
+      "@type": "Person",
+      "name": "Fabian Bentz"
+    },
+    {
+      "@type": "Person",
+      "name": "Jan Sorgalla"
+    },
+    {
+      "@type": "Person",
+      "name": "Jonas Regner"
+    },
+    {
+      "@type": "Person",
+      "name": "Kai Schroko"
+    },
+    {
+      "@type": "Person",
+      "name": "Kevin Geggus"
+    },
+    {
+      "@type": "Person",
+      "name": "Mirko Mayerhöffer"
+    }
+  ],
+  "superEvent": {
+    "@type": "FoodEvent",
+    "@id": "http://coders-kitchen.dotsunited.de/index.jsonld"
+  },
+  "potentialAction": {
+    "@type": "CookAction",
+    "agent": {
+      "@type": "Person",
+      "name": "Mirko Mayerhöffer"
+    },
+    "recipe": {
+      "@type": "Recipe",
+      "@id": "http://coders-kitchen.dotsunited.de/recipes/spaghetti-aurora-mirko.jsonld"
+    }
+  }
+}
